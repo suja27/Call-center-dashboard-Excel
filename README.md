@@ -1,2 +1,6 @@
-# -Call-center-dashboard-Excel
-This dashboard visualizes key call centre metrics such as call volume, resolution rate, and agent performance. It helps monitor efficiency, track trends, and improve customer service outcomes.
+#  Call centre report dashboard
+
+## Project Description
+This dashboard provides a comprehensive analysis of call centre performance by monitoring key metrics such as total calls handled, average call duration, customer satisfaction, first-call resolution rate, and agent performance. Built using Microsoft Excel , it enables managers to quickly assess operational efficiency and identify areas for improvement.
+
+#### Screenshot
