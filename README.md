@@ -28,8 +28,12 @@ This dashboard provides a comprehensive analysis of call centre performance by m
 - **Conditional Formatting & Styling**
 Heatmaps – Applied to highlight performance variations and enhance data interpretation.
 - **Interactive Slicers** – Enable users to dynamically filter and explore the data with ease.
-## Tools Used
+## 3.Tools Used
 - **Microsoft Excel** – Utilized for creating Pivot Tables, charts, KPI visuals, and applying conditional formatting for clarity.
 
 - **Power Query** – Used for data cleaning, transformation, and preparing structured datasets for analysis.
+
+ ## 4. Files inculded
+- **call-centre-excel-portfolio-project .xlsx:** The main Excel file with all dashboards and data analysis.
+- **README.md:** Documentation for this project.
 
